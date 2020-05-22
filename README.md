@@ -1,2 +1,0 @@
-# vod-dashboard
-VOD Dashboard
